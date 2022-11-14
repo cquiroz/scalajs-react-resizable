@@ -5,7 +5,7 @@ val scalaJsReact          = "2.1.1"
 val scalaJSDom            = "2.2.0"
 val scalaJSReactCommon    = "0.17.0"
 val scalaJSReactDraggable = "0.16.0"
-val cats                  = "2.7.0"
+val cats                  = "2.9.0"
 val uTest                 = "0.8.0"
 
 addCommandAlias("restartWDS",
